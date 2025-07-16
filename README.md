@@ -8,4 +8,4 @@ I have experience in creating SQL/Python dataflows to feed data visualizations o
 
 I am also a Mathematics Hischool Teaching graduate student at Universitat Oberta de Catalunya.
 
-During the courses 23-24 and 24-25 I graduated from the Data Science Master's from Universitat Politècnica de Catalunya - BarcelonaTech. In my thesis, Dimensionality reduction for big data, me and my tutors developed a divide-and-conquer framework to reduce the time and space complexity of dimensionality reduction algorithms, hence making these techiques more sustainable and accessible, even for big data. You can check the project at TFMAdrià.
+During the courses 23-24 and 24-25 I graduated from the Data Science Master's from Universitat Politècnica de Catalunya - BarcelonaTech. In my thesis, Dimensionality reduction for big data, me and my tutors developed a divide-and-conquer framework to reduce the time and space complexity of dimensionality reduction algorithms, hence making these techiques more sustainable and accessible, even for big data. You can check the project at TFM_Adria.
